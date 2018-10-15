@@ -1,3 +1,6 @@
+/**
+ * 为什么出现这种问题！
+ */
 public class EqualsMethod2 {
     public static void main(String[] args) {
         Value v1 = new Value();
